@@ -9,3 +9,9 @@
 7. set children routes
 8. set links on the header components
  */
+
+/* 
+//@ ─────────────────────────────────────────────────────────── CONTEXT API ─────
+1. declare a context
+2. set provider
+ */
