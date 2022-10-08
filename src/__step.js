@@ -13,5 +13,6 @@
 /* 
 //@ ─────────────────────────────────────────────────────────── CONTEXT API ─────
 1. declare a context
-2. set provider
+2. set provider with value
+3. useContext in the place where you want to get the context
  */
